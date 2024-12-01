@@ -49,7 +49,7 @@
 ## 💝 Thanks to
 
 - [Scarce Koi](https://github.com/scarcekoi)
-- [Sofy](https://github.com/sofycat) for the base code
+- [Sofy](https://github.com/sofycat) for the [base code](https://github.com/sofycat/gamemaker)
 
 &nbsp;
 
