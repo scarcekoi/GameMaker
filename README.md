@@ -48,7 +48,7 @@
 
 ## 💝 Thanks to
 
-- [Human](https://github.com/scarcekoi)
+- [Scarce Koi](https://github.com/scarcekoi)
 
 &nbsp;
 
