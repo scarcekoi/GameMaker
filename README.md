@@ -36,9 +36,9 @@
 
 ## Usage
 
-1. Download the flavor of your choice.
-2. Open the app and go to **Preferences** > **Appearance** > **Import theme**.
-3. Select the downloaded flavor file.
+1. Download the flavor of your choice from [releases](https://github.com/scarcekoi/gamemaker/releases).
+2. Move it to `C:\ProgramData\GameMakerStudio2\Skins` for [Windows](https://www.microsoft.com/en-us/windows), `/Users/Shared/GameMakerStudio2/Skins/` for [macOS](https://www.apple.com/macos/), or `/var/opt/GameMakerStudio2-Beta/Skins` for [Linux](https://linux.org/) ([Ubuntu](https://ubuntu.com/)).
+3. Open GameMaker Studio 2 and go to **File** > **Preferences** > **General Settings** > **IDE Skin** > **Catppuccin**, then click **Apply**.
 
 <!-- The FAQ section is optional. Remove if needed.-->
 ## 🙋 FAQ
